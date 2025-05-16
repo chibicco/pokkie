@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "pokkie",
+  "version": "0.1.0",
+  "description": "Unofficial Save to Pocket extension — open a background tab to save the current page.",
+  "permissions": ["tabs", "activeTab"],
+  "icons": {
+    "16": "images/icon-16.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
